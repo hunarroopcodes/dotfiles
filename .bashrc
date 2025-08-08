@@ -18,6 +18,9 @@ export XDG_STATE_HOME="$HOME/.local/state"
 # See bash(1) for more options
 HISTCONTROL=ignoreboth
 
+# use $XDG_STATE_HOME/bash/history for bash history
+HISTFILE="$XDG_STATE_HOME/bash/history"
+
 # append to the history file, don't overwrite it
 shopt -s histappend
 
