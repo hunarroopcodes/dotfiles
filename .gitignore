@@ -6,3 +6,4 @@
 
 # XDG
 .cache
+.local/state
