@@ -126,3 +126,4 @@ if ! shopt -oq posix; then
 fi
 
 export LESSHISTFILE="$XDG_STATE_HOME/lesshst"
+export LESSKEYIN="$XDG_CONFIG_HOME/lesskey"
