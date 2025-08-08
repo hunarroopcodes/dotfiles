@@ -1,3 +1,6 @@
+# motd
+.motd_shown
+
 # sudo
 .sudo_as_admin_successful
 
