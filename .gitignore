@@ -4,6 +4,10 @@
 # motd
 .motd_shown
 
+# rust
+.cargo
+.rustup
+
 # sudo
 .sudo_as_admin_successful
 
