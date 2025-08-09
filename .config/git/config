@@ -1,3 +1,5 @@
 [user]
 	email = hunarroopcodes@gmail.com
 	name = Hunar Roop Kahlon
+[commit]
+	gpgSign = true
