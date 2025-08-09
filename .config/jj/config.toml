@@ -1,0 +1,12 @@
+"$schema" = "https://jj-vcs.github.io/jj/latest/config-schema.json"
+
+[signing]
+backend = "gpg"
+behavior = "own"
+
+[ui]
+default-command = "log"
+
+[user]
+email = "hunarroopcodes@gmail.com"
+name = "Hunar Roop Kahlon"
