@@ -132,3 +132,6 @@ export LESSKEYIN="$XDG_CONFIG_HOME/lesskey"
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
 . "$HOME/.cargo/env"
+
+# fnm
+eval $(fnm env)
