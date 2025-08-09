@@ -8,6 +8,9 @@ code
 # fnm
 .local/share/fnm
 
+# gpg
+.gnupg
+
 # landscape
 .landscape
 
