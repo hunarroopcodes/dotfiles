@@ -1,6 +1,9 @@
 # bun
 .bun
 
+# fnm
+.local/share/fnm
+
 # landscape
 .landscape
 
