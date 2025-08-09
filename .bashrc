@@ -137,3 +137,5 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 eval $(fnm env)
 
 export NODE_REPL_HISTORY="$XDG_STATE_HOME/node/repl_history"
+
+export GPG_TTY=$(tty)
