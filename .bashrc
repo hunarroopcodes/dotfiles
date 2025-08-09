@@ -135,3 +135,5 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 
 # fnm
 eval $(fnm env)
+
+export NODE_REPL_HISTORY="$XDG_STATE_HOME/node/repl_history"
