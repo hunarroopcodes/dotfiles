@@ -8,6 +8,9 @@
 .cargo
 .rustup
 
+# snap
+snap
+
 # sudo
 .sudo_as_admin_successful
 
