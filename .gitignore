@@ -18,6 +18,9 @@ code
 .cargo
 .rustup
 
+# ssh
+.ssh
+
 # snap
 snap
 
