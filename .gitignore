@@ -1,6 +1,10 @@
 # bun
 .bun
 
+# code directories
+build
+code
+
 # fnm
 .local/share/fnm
 
