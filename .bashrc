@@ -127,3 +127,7 @@ fi
 
 export LESSHISTFILE="$XDG_STATE_HOME/lesshst"
 export LESSKEYIN="$XDG_CONFIG_HOME/lesskey"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
