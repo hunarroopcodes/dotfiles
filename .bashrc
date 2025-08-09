@@ -131,3 +131,4 @@ export LESSKEYIN="$XDG_CONFIG_HOME/lesskey"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+. "$HOME/.cargo/env"
