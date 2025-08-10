@@ -1,0 +1,58 @@
+[[language]]
+auto-format = true
+name = "javascript"
+
+[[language.language-servers]]
+name = "biome"
+
+[[language.language-servers]]
+except-features = ["format"]
+name = "typescript-language-server"
+
+[[language]]
+auto-format = true
+name = "json"
+
+[[language.language-servers]]
+except-features = ["format"]
+name = "vscode-json-language-server"
+
+[[language.language-servers]]
+name = "biome"
+
+[[language]]
+auto-format = true
+name = "jsx"
+
+[[language.language-servers]]
+name = "biome"
+
+[[language.language-servers]]
+except-features = ["format"]
+name = "typescript-language-server"
+
+[[language]]
+auto-format = true
+name = "tsx"
+
+[[language.language-servers]]
+name = "biome"
+
+[[language.language-servers]]
+except-features = ["format"]
+name = "typescript-language-server"
+
+[[language]]
+auto-format = true
+name = "typescript"
+
+[[language.language-servers]]
+name = "biome"
+
+[[language.language-servers]]
+except-features = ["format"]
+name = "typescript-language-server"
+
+[language-server.biome]
+args = ["lsp-proxy"]
+command = "biome"
