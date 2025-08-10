@@ -33,3 +33,6 @@ snap
 # XDG
 .cache
 .local/state
+
+# zellij
+.local/share/zellij/tokens.db
