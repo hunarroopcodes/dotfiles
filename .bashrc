@@ -141,3 +141,5 @@ eval $(fnm env)
 export NODE_REPL_HISTORY="$XDG_STATE_HOME/node/repl_history"
 
 export GPG_TTY=$(tty)
+
+export EDITOR="hx"
